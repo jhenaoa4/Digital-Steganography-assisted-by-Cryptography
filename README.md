@@ -25,6 +25,10 @@ The codes of the steganography part of the research are in this repository, agro
 - [LSBinRGB.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/LSBinRGB.m)
 - [extRGB.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/extRGB.m)
 
+## Cryptography codes 🗝
+
+The codes of the steganography part of the research are in the following [repository](https://github.com/jhenaoa4/Analisis-Numerico/tree/master/Cryptography)
+
 
 
 
