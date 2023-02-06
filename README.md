@@ -15,13 +15,13 @@ You can find theoric and practical fundaments of this project in the paper [Steg
 ## Steganography codes 💥
 The codes of the steganography part of the research are in this repository, agroupped in embbedd and extraction: 
 
-### Embbedd and extraction in blue layer 💙
+### Embed and extraction in blue layer 💙
 - [LSBinBlue.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/LSBinBlue.m)
 - [extBlue.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/extBlue.m)
-### Embbedd and extraction in Gray scale 🤍
+### Embed and extraction in Gray scale 🤍
 - [LSBinGS.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/LSBinGS.m)
 - [extGS.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/extGS.m)
-### Embbedd and extraction in RGB layers 💜
+### Embed and extraction in RGB layers 💜
 - [LSBinRGB.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/LSBinRGB.m)
 - [extRGB.m](https://github.com/jhenaoa4/Digital-Steganography-assisted-by-Cryptography/blob/main/extRGB.m)
 
